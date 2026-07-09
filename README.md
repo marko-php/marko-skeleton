@@ -42,8 +42,8 @@ declare(strict_types=1);
 
 namespace App\Http\Controllers;
 
-use Marko\Http\Request;
-use Marko\Http\Response;
+use Marko\Routing\Http\Request;
+use Marko\Routing\Http\Response;
 
 class HomeController
 {
